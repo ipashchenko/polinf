@@ -22,3 +22,6 @@ Imported function ``fit`` takes two positional arguments - iterables of FPOL val
 ```
 >>> FPOL_mean, mod_indx = fit(FPOL, sigma_FPOL)
 ```
+
+## Examples
+Example usage shown in ``example.py`` (first, compile shared library).
