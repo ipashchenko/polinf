@@ -1,5 +1,5 @@
 # polinf
-Estimating mean intrinsic fractional polarization (FPOL) and intrinsic variability (modulation index) using sequence of the observed FPOL values and their errors. Implementation of the approach described in Appendix A of Blinov et al. 2016j (doi:10.1093/mnras/stw158) 
+Estimating mean intrinsic fractional polarization (FPOL) and intrinsic variability (modulation index) using sequence of the observed FPOL values and their errors. Implementation of the approach described in Appendix A of Blinov et al. 2016 (doi:10.1093/mnras/stw158) 
 
 ## Installation
 First, install ``boost``, ``dlib`` and ``pybind11`` C++ libraries. 
