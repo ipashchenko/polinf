@@ -88,7 +88,7 @@ std::pair<double,double> fit(std::vector<double> ms_obs, std::vector<double> sig
                                      {0.8,0.8},
                                      dlib::max_function_calls(1000)
     );
-    return std::make_pair(res.x, res.y);
+    return std::make_pair(res.x(0), res.x(1));
 }
 
 
